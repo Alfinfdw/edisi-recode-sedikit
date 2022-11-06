@@ -5937,8 +5937,8 @@ var unicorn = await getBuffer(picak+'All Menu')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'recode sendri diks🗿'}, type: 1},
-  {buttonId: 'donate', buttonText: {displayText: 'Donate kontol🐧'}, type: 1},
-  {buttonId: 'owner', buttonText: {displayText: 'Owner terganteng🗿🥶'}, type: 1}
+  {buttonId: 'donate', buttonText: {displayText: 'Donate sayang🐧'}, type: 1},
+  {buttonId: 'owner', buttonText: {displayText: 'Owner tercantik🗿🥶'}, type: 1}
 ]
 const buttonMessage = {
     image: unicorn,

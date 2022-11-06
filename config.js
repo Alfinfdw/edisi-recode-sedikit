@@ -14,26 +14,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6282146218274'] //ur owner number
-global.ownername = "🦄Dream Guy Riell" //ur owner name
-global.ytname = "YT: Riell" //ur yt chanel name
-global.socialm = "GitHub: RiellTod1" //ur github or insta name
-global.location = "indonesia, Kaltim, tenggarong" //ur location
+global.vcardowner = ['4915256954581'] //ur owner number
+global.ownername = "🦄Queen Niluh" //ur owner name
+global.ytname = "YT: OTW" //ur yt chanel name
+global.socialm = "GitHub: Tanyaowner" //ur github or insta name
+global.location = "indonesia, Jatim, Banyuwangi" //ur location
 
 //bot bomdy 
-global.owner = ['6282146218274'] //ur number
-global.ownernomer = "6282146218274" //ur number
-global.ownertag = '6282146218274' //ur tag number
-global.premium = ['6282146218274'] //ur premium number
-global.botname = 'Khurushi bot' //ur bot name
-global.ownername = "🦄Dream Guy Riell"
-global.linkz = "https://youtu.be/CO3bkX-pG6o" //your theme url which will be displayed on whatsapp
-global.websitex = "https:/github.com/RiellTod1" //ur website to be displayed
+global.owner = ['4915256954581'] //ur number
+global.ownernomer = "4915256954581" //ur number
+global.ownertag = '4915256954581' //ur tag number
+global.premium = ['4915256954581'] //ur premium number
+global.botname = 'Niluh Botz' //ur bot name
+global.ownername = "🦄Queen Niluh"
+global.linkz = "https://youtu.be/kepoid-kan" //your theme url which will be displayed on whatsapp
+global.websitex = "https:/github.com/tanyaowner" //ur website to be displayed
 global.botscript = 'Recode sendri dek🗿/DGX' //script link
 global.themeemoji = "🥶" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Riell X wahyu Animek" //ur sticker watermark author
-global.wm = "Khurushi Bot Inc." //ur watermark
+global.author = "Al X Niluh" //ur sticker watermark author
+global.wm = "Niluh Botz Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
